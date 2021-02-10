@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 arr = %w[hey go hello d family]
 def bubble_sort_by(arr)
   times = 0
