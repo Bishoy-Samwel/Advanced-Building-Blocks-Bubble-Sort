@@ -12,6 +12,7 @@ def bubble_sort(arr)
     end
     times += 1
   end
+  return arr
 end
 bubble_sort(bubble)
-print bubble
+
