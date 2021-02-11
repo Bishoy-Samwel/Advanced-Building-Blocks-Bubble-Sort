@@ -33,7 +33,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-
 ## Authors
 
 👤 **Author1**
@@ -52,7 +51,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Bishoy-Samwel/Advanced-Building-Blocks-Bubble-Sort/issues/2#issue-806453596).
 
 ## Show your support
 
