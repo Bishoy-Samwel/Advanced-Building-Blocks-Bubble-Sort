@@ -3,42 +3,34 @@
 # Advanced-Building-Blocks-Bubble-Sort
 
 
-> One paragraph statement about the project.
+> Sort array of number or array of string by their length.
 
-![screenshot](./app_screenshot.png)
+
+![screenshot](./bubble_sort.png)
+- Sorting an array of number by comparing the value of each one
+
+![screenshot](./bubble_sort_by.png)
+- Sorting an array of strings by comparing the length of each one
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
+- VSC
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+- Install [Ruby] (https://ruby-doc.org/downloads/)
+- Press Code then press Download ZIP 
+- Open terminal with the same directory
+- Test first file by writing: ruby bubble_sort.rb
+- Test second file by writing: ruby bubble_sort_by.rb
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
@@ -46,15 +38,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Bishoy-Samwel](https://github.com/Bishoy-Samwel)
+- LinkedIn: [Bishoy Samwel](https://www.linkedin.com/in/bishoy-samwuel-ss/)
+- Twitter: [@bisho](https://twitter.com/BishoFaheem15)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Erez Friemago](https://github.com/erezfree29)
+- Twitter: [@Erez Friemago](https://twitter.com/friemagor )
+- LinkedIn: [Erez Friemago]( https://www.linkedin.com/in/erez-friemagor-3b0bab145/ )
 
 ## 🤝 Contributing
 
