@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 arr = %w[hey go hello d family]
 def bubble_sort_by(arr)
   times = 0
@@ -14,8 +16,8 @@ def bubble_sort_by(arr)
     end
     times += 1
   end
-  return arr
+  arr
 end
-bubble_sort_by(["h", "hi", "hey", "hiya", "hello"]) do |left, right|
+bubble_sort_by(%w[h hi hey hiya hello]) do |left, right|
   left.length - right.length
 end

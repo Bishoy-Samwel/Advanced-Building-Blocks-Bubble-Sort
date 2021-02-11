@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 bubble = [5, 4, 3, 2, 1, 7, 8.9, 22, 34, 343, 5, 0, -1]
 def bubble_sort(arr)
   times = 0
@@ -12,7 +14,6 @@ def bubble_sort(arr)
     end
     times += 1
   end
-  return arr
+  arr
 end
 bubble_sort(bubble)
-
